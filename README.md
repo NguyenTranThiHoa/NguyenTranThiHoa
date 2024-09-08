@@ -1,7 +1,7 @@
                                     👋 Hi, My name is NguyenTranThiHoa
                       
  -------------------👀 Programming language and Technology 👀----------------------
-  HTML --> CSS --> JavaScript --> Bootstrap --> PHP --> C# --> Java Swing 
+  HTML --> CSS --> JavaScript --> Bootstrap --> PHP --> C# --> Java Swing -->
   GitHub --> Git --> MySql --> SQL Server --> Xampp --> ASP.NET --> MVC 
  ------------------------------------------------------------------------------------------------------------------------------------------------------
 
